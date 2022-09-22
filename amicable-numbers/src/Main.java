@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 //Amicable numbers are two different natural numbers related in such a way that the sum of the proper divisors 

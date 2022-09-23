@@ -16,9 +16,9 @@ public class Main {
 		for(i =0;i<array.length;i++) {
 			randomNumber = rand.nextInt(upperBound);
 			array[i] = randomNumber;
-			System.out.println(array[i]);
+			System.out.print(array[i] + " ");
 		}
-			
+			System.out.println();
 			
 			if (number == i) {
 				System.out.println("Your guess " + number +" is wright.");
